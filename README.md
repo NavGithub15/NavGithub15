@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveen Sharma</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navgithub15" alt="navgithub15" /></a> </p>
-
 - Im currently working on [Waste Z](https://wastez.netlify.app/)
 
 - 🌱 I’m currently learning **MySql, React, React Native**
