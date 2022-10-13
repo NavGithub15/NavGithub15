@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen Sharma</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">I am passionate full stack developer</h3>
 
 - Im currently working on [Waste Z](https://wastez.netlify.app/)
 
