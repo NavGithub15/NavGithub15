@@ -3,7 +3,7 @@
 
 - Im currently working on [Waste Z](https://wastez.netlify.app/)
 
-- 🌱 I’m currently learning **MySql, React, React Native**
+- 🌱 I’m currently learning **MySql, ReactJS, NextJS, Typescript**
 
 - 📫 How to reach me **Nav.shar000@gmail.com**
 
