@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveen Sharma</h1>
 <h3 align="center">I am passionate full stack developer</h3>
 
-- Im currently working on my Portfolio and some small projects.
+- Im currently working on my portfolio website and some small projects.
 
 - 🌱 I’m currently learning **MySql, ReactJS, NextJS, Typescript**
 
