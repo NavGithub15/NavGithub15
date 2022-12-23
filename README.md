@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **MySql, ReactJS, NextJS, Typescript**
 
+- Checkout my portfolio https://navsharma.netlify.app
+
 - 📫 How to reach me **Nav.shar000@gmail.com**
 
 - ⚡ Fun fact **I love rock climbing and working out.**
