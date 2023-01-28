@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Nav.shar000@gmail.com**
 
-- ⚡ Fun fact **I love playing video games and working out.**
+- ⚡  **I love playing video games and working out.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
