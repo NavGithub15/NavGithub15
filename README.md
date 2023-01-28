@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Typescript**
 
-- Checkout my portfolio https://navsharma.netlify.app
+- Checkout my portfolio https://naveensharma.vercel.app
 
 - 📫 How to reach me **Nav.shar000@gmail.com**
 
